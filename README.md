@@ -2,4 +2,4 @@
 - 👀 I’m interested in Computer science(programming in general)
 - 🌱 I’m currently studying C#, ASP.NET CORE, HTML/CSS, JS, DATA STRUCTURES, SQL. 
 - 💞️ I’m looking foward to start my career in software development 
-- 📫 How to reach me  Kenkrast@students.softuni.bg
+- 📫 How to reach me  Kenkrast@students.softuni.bg  or  Krastevkancho88@gmail.com
